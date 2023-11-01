@@ -1,0 +1,2549 @@
+{
+  "asset": {
+    "generator": "Babylon.js v6.0.0",
+    "version": "2.0"
+  },
+  "extensionsUsed": [
+    "KHR_lights_punctual"
+  ],
+  "extensions": {
+    "KHR_lights_punctual": {
+      "lights": [
+        {
+          "type": "directional",
+          "range": 1
+        }
+      ]
+    }
+  },
+  "buffers": [
+    {
+      "byteLength": 4725400,
+      "uri": "qqq.bin"
+    }
+  ],
+  "nodes": [
+    {
+      "name": "body_all",
+      "scale": [
+        0.009999999776482582,
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      "rotation": [
+        -0.7071067811865476,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "children": [
+        10,
+        9,
+        8,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "cloth",
+      "scale": [
+        0.009999999776482582,
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      "rotation": [
+        -0.7071067811865476,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "children": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "name": "body_all",
+      "scale": [
+        0.009999999776482582,
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      "rotation": [
+        -0.7071067811865476,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "children": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "name": "cloth",
+      "scale": [
+        0.009999999776482582,
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      "rotation": [
+        -0.7071067811865476,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "children": [
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "name": "sky",
+      "translation": [
+        0,
+        3.411649227142334,
+        0
+      ],
+      "mesh": 0,
+      "rotation": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "__root__",
+      "scale": [
+        10,
+        10,
+        10
+      ],
+      "rotation": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "children": [
+        16,
+        6,
+        7,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "eyelash",
+      "scale": [
+        0.009999999776482582,
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      "rotation": [
+        -0.7071067811865476,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "mesh": 1
+    },
+    {
+      "name": "eyeball",
+      "scale": [
+        0.009999999776482582,
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      "rotation": [
+        -0.7071067811865476,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "mesh": 2
+    },
+    {
+      "name": "body_all_primitive0",
+      "mesh": 3
+    },
+    {
+      "name": "body_all_primitive1",
+      "scale": [
+        1,
+        0.8183834552764893,
+        1
+      ],
+      "rotation": [
+        6.610395892237171e-14,
+        0,
+        0,
+        1
+      ],
+      "mesh": 4
+    },
+    {
+      "name": "body_all_primitive2",
+      "mesh": 5
+    },
+    {
+      "name": "body_all_primitive3",
+      "mesh": 6
+    },
+    {
+      "name": "body_all_primitive4",
+      "mesh": 7
+    },
+    {
+      "name": "cloth_primitive0",
+      "mesh": 8
+    },
+    {
+      "name": "cloth_primitive1",
+      "mesh": 9
+    },
+    {
+      "name": "cloth_primitive2",
+      "mesh": 10
+    },
+    {
+      "name": "hair",
+      "scale": [
+        0.009999999776482582,
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      "rotation": [
+        -0.7071067811865476,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "mesh": 11
+    },
+    {
+      "name": "New Cylinder",
+      "translation": [
+        -8.337034225463867,
+        14.910417556762695,
+        -0.0055124228820204735
+      ],
+      "scale": [
+        3,
+        3,
+        3
+      ],
+      "mesh": 12,
+      "rotation": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "__root__",
+      "scale": [
+        9.999995669201686,
+        -10,
+        9.999995669201686
+      ],
+      "rotation": [
+        1,
+        6.123233995736766e-17,
+        0,
+        0
+      ],
+      "children": [
+        20,
+        19,
+        29,
+        2,
+        3
+      ]
+    },
+    {
+      "name": "eyelash",
+      "scale": [
+        0.009999999776482582,
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      "rotation": [
+        -0.7071067811865476,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "mesh": 13
+    },
+    {
+      "name": "eyeball",
+      "scale": [
+        0.009999999776482582,
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      "rotation": [
+        -0.7071067811865476,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "mesh": 14
+    },
+    {
+      "name": "body_all_primitive0",
+      "mesh": 15
+    },
+    {
+      "name": "body_all_primitive1",
+      "mesh": 16
+    },
+    {
+      "name": "body_all_primitive2",
+      "mesh": 17
+    },
+    {
+      "name": "body_all_primitive3",
+      "mesh": 18
+    },
+    {
+      "name": "body_all_primitive4",
+      "mesh": 19
+    },
+    {
+      "name": "cloth_primitive0",
+      "mesh": 20
+    },
+    {
+      "name": "cloth_primitive1",
+      "mesh": 21
+    },
+    {
+      "name": "cloth_primitive2",
+      "mesh": 22
+    },
+    {
+      "name": "hair",
+      "scale": [
+        0.009999999776482582,
+        0.010000000707805247,
+        0.010000000707805247
+      ],
+      "rotation": [
+        -0.7071068286895734,
+        1.2614546826082241e-23,
+        1.6231499318558508e-23,
+        0.7071067336835186
+      ],
+      "mesh": 23
+    },
+    {
+      "name": "sun",
+      "translation": [
+        -0.6700000166893005,
+        11.890000343322754,
+        0
+      ],
+      "rotation": [
+        0.1631811518289668,
+        0.10109994276845619,
+        -0.016812702058502504,
+        0.9812583993574162
+      ],
+      "extensions": {
+        "KHR_lights_punctual": {
+          "light": 0
+        }
+      }
+    },
+    {
+      "name": "Editor Camera",
+      "translation": [
+        -1.2729781231646278,
+        14.582948822561372,
+        10.325175795148327
+      ],
+      "camera": 0,
+      "rotation": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "camera",
+      "translation": [
+        -4.397935274305095,
+        14.67626799590704,
+        5.550785173024289
+      ],
+      "camera": 1,
+      "rotation": [
+        0,
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1
+          },
+          "indices": 2
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 3,
+            "NORMAL": 4,
+            "COLOR_0": 5
+          },
+          "indices": 6,
+          "material": 1
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 7,
+            "NORMAL": 8
+          },
+          "indices": 9,
+          "material": 2
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 10,
+            "NORMAL": 11,
+            "COLOR_0": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 9
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 15,
+            "NORMAL": 16,
+            "COLOR_0": 17
+          },
+          "indices": 18,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 19,
+            "NORMAL": 20,
+            "COLOR_0": 21
+          },
+          "indices": 22,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 23,
+            "NORMAL": 24,
+            "COLOR_0": 25
+          },
+          "indices": 26,
+          "material": 3
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 27,
+            "NORMAL": 28,
+            "COLOR_0": 29
+          },
+          "indices": 30,
+          "material": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 31,
+            "NORMAL": 32
+          },
+          "indices": 33
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 34,
+            "NORMAL": 35
+          },
+          "indices": 36
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 37,
+            "NORMAL": 38
+          },
+          "indices": 39,
+          "material": 5
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 40,
+            "NORMAL": 41
+          },
+          "indices": 42,
+          "material": 6
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 43,
+            "NORMAL": 44
+          },
+          "indices": 45,
+          "material": 7
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 46,
+            "NORMAL": 47,
+            "COLOR_0": 48
+          },
+          "indices": 49,
+          "material": 1
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 50,
+            "NORMAL": 51
+          },
+          "indices": 52
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 53,
+            "NORMAL": 54,
+            "COLOR_0": 55
+          },
+          "indices": 56
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 57,
+            "NORMAL": 58,
+            "COLOR_0": 59
+          },
+          "indices": 60
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 61,
+            "NORMAL": 62,
+            "COLOR_0": 63
+          },
+          "indices": 64,
+          "material": 8
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 65,
+            "NORMAL": 66,
+            "COLOR_0": 67
+          },
+          "indices": 68,
+          "material": 3
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 69,
+            "NORMAL": 70,
+            "COLOR_0": 71
+          },
+          "indices": 72
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 73,
+            "NORMAL": 74
+          },
+          "indices": 75
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 76,
+            "NORMAL": 77
+          },
+          "indices": 78
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 79,
+            "NORMAL": 80
+          },
+          "indices": 81,
+          "material": 5
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 82,
+            "NORMAL": 83
+          },
+          "indices": 84
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        4,
+        5,
+        17,
+        18,
+        30,
+        31,
+        32
+      ]
+    }
+  ],
+  "scene": 0,
+  "cameras": [
+    {
+      "type": "perspective",
+      "name": "Editor Camera",
+      "perspective": {
+        "aspectRatio": 1.9513513513513514,
+        "yfov": 0.8,
+        "znear": 1,
+        "zfar": 192216.796875
+      }
+    },
+    {
+      "type": "perspective",
+      "name": "camera",
+      "perspective": {
+        "aspectRatio": 1.9513513513513514,
+        "yfov": 0.8,
+        "znear": 1,
+        "zfar": 128144.53125
+      }
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 288,
+      "name": "position - sky",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 288,
+      "byteOffset": 288,
+      "name": "normal - sky",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 192,
+      "byteOffset": 576,
+      "name": "uv - sky",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 144,
+      "byteOffset": 768,
+      "name": "Indices - sky"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10080,
+      "byteOffset": 912,
+      "name": "position - eyelash",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10080,
+      "byteOffset": 10992,
+      "name": "normal - eyelash",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13440,
+      "byteOffset": 21072,
+      "name": "color - eyelash",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6720,
+      "byteOffset": 34512,
+      "name": "uv - eyelash",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 16128,
+      "byteOffset": 41232,
+      "name": "Indices - eyelash"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20784,
+      "byteOffset": 57360,
+      "name": "position - eyeball",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20784,
+      "byteOffset": 78144,
+      "name": "normal - eyeball",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13856,
+      "byteOffset": 98928,
+      "name": "uv - eyeball",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 39936,
+      "byteOffset": 112784,
+      "name": "Indices - eyeball"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 103344,
+      "byteOffset": 152720,
+      "name": "position - body_all_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 103344,
+      "byteOffset": 256064,
+      "name": "normal - body_all_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 137792,
+      "byteOffset": 359408,
+      "name": "color - body_all_primitive0",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 68896,
+      "byteOffset": 497200,
+      "name": "uv - body_all_primitive0",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 182112,
+      "byteOffset": 566096,
+      "name": "Indices - body_all_primitive0"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 7764,
+      "byteOffset": 748208,
+      "name": "position - body_all_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 7764,
+      "byteOffset": 755972,
+      "name": "normal - body_all_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10352,
+      "byteOffset": 763736,
+      "name": "color - body_all_primitive1",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5176,
+      "byteOffset": 774088,
+      "name": "uv - body_all_primitive1",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 14160,
+      "byteOffset": 779264,
+      "name": "Indices - body_all_primitive1"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6072,
+      "byteOffset": 793424,
+      "name": "position - body_all_primitive2",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6072,
+      "byteOffset": 799496,
+      "name": "normal - body_all_primitive2",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8096,
+      "byteOffset": 805568,
+      "name": "color - body_all_primitive2",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4048,
+      "byteOffset": 813664,
+      "name": "uv - body_all_primitive2",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10032,
+      "byteOffset": 817712,
+      "name": "Indices - body_all_primitive2"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 21024,
+      "byteOffset": 827744,
+      "name": "position - body_all_primitive3",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 21024,
+      "byteOffset": 848768,
+      "name": "normal - body_all_primitive3",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 28032,
+      "byteOffset": 869792,
+      "name": "color - body_all_primitive3",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 14016,
+      "byteOffset": 897824,
+      "name": "uv - body_all_primitive3",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 37104,
+      "byteOffset": 911840,
+      "name": "Indices - body_all_primitive3"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 66672,
+      "byteOffset": 948944,
+      "name": "position - body_all_primitive4",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 66672,
+      "byteOffset": 1015616,
+      "name": "normal - body_all_primitive4",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 88896,
+      "byteOffset": 1082288,
+      "name": "color - body_all_primitive4",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 44448,
+      "byteOffset": 1171184,
+      "name": "uv - body_all_primitive4",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 129240,
+      "byteOffset": 1215632,
+      "name": "Indices - body_all_primitive4"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 17640,
+      "byteOffset": 1344872,
+      "name": "position - cloth_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 17640,
+      "byteOffset": 1362512,
+      "name": "normal - cloth_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 11760,
+      "byteOffset": 1380152,
+      "name": "uv - cloth_primitive0",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 31920,
+      "byteOffset": 1391912,
+      "name": "Indices - cloth_primitive0"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 14184,
+      "byteOffset": 1423832,
+      "name": "position - cloth_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 14184,
+      "byteOffset": 1438016,
+      "name": "normal - cloth_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 9456,
+      "byteOffset": 1452200,
+      "name": "uv - cloth_primitive1",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 25872,
+      "byteOffset": 1461656,
+      "name": "Indices - cloth_primitive1"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18984,
+      "byteOffset": 1487528,
+      "name": "position - cloth_primitive2",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18984,
+      "byteOffset": 1506512,
+      "name": "normal - cloth_primitive2",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12656,
+      "byteOffset": 1525496,
+      "name": "uv - cloth_primitive2",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 28824,
+      "byteOffset": 1538152,
+      "name": "Indices - cloth_primitive2"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 178236,
+      "byteOffset": 1566976,
+      "name": "position - hair",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 178236,
+      "byteOffset": 1745212,
+      "name": "normal - hair",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 118824,
+      "byteOffset": 1923448,
+      "name": "uv - hair",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 118824,
+      "byteOffset": 2042272,
+      "name": "uv2 - hair",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 200556,
+      "byteOffset": 2161096,
+      "name": "Indices - hair"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 840,
+      "byteOffset": 2361652,
+      "name": "position - New Cylinder",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 840,
+      "byteOffset": 2362492,
+      "name": "normal - New Cylinder",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 560,
+      "byteOffset": 2363332,
+      "name": "uv - New Cylinder",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 768,
+      "byteOffset": 2363892,
+      "name": "Indices - New Cylinder"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10080,
+      "byteOffset": 2364660,
+      "name": "position - eyelash",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10080,
+      "byteOffset": 2374740,
+      "name": "normal - eyelash",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13440,
+      "byteOffset": 2384820,
+      "name": "color - eyelash",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6720,
+      "byteOffset": 2398260,
+      "name": "uv - eyelash",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 16128,
+      "byteOffset": 2404980,
+      "name": "Indices - eyelash"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20784,
+      "byteOffset": 2421108,
+      "name": "position - eyeball",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20784,
+      "byteOffset": 2441892,
+      "name": "normal - eyeball",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13856,
+      "byteOffset": 2462676,
+      "name": "uv - eyeball",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 39936,
+      "byteOffset": 2476532,
+      "name": "Indices - eyeball"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 103344,
+      "byteOffset": 2516468,
+      "name": "position - body_all_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 103344,
+      "byteOffset": 2619812,
+      "name": "normal - body_all_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 137792,
+      "byteOffset": 2723156,
+      "name": "color - body_all_primitive0",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 68896,
+      "byteOffset": 2860948,
+      "name": "uv - body_all_primitive0",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 182112,
+      "byteOffset": 2929844,
+      "name": "Indices - body_all_primitive0"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 7764,
+      "byteOffset": 3111956,
+      "name": "position - body_all_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 7764,
+      "byteOffset": 3119720,
+      "name": "normal - body_all_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10352,
+      "byteOffset": 3127484,
+      "name": "color - body_all_primitive1",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5176,
+      "byteOffset": 3137836,
+      "name": "uv - body_all_primitive1",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 14160,
+      "byteOffset": 3143012,
+      "name": "Indices - body_all_primitive1"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6072,
+      "byteOffset": 3157172,
+      "name": "position - body_all_primitive2",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6072,
+      "byteOffset": 3163244,
+      "name": "normal - body_all_primitive2",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8096,
+      "byteOffset": 3169316,
+      "name": "color - body_all_primitive2",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4048,
+      "byteOffset": 3177412,
+      "name": "uv - body_all_primitive2",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10032,
+      "byteOffset": 3181460,
+      "name": "Indices - body_all_primitive2"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 21024,
+      "byteOffset": 3191492,
+      "name": "position - body_all_primitive3",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 21024,
+      "byteOffset": 3212516,
+      "name": "normal - body_all_primitive3",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 28032,
+      "byteOffset": 3233540,
+      "name": "color - body_all_primitive3",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 14016,
+      "byteOffset": 3261572,
+      "name": "uv - body_all_primitive3",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 37104,
+      "byteOffset": 3275588,
+      "name": "Indices - body_all_primitive3"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 66672,
+      "byteOffset": 3312692,
+      "name": "position - body_all_primitive4",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 66672,
+      "byteOffset": 3379364,
+      "name": "normal - body_all_primitive4",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 88896,
+      "byteOffset": 3446036,
+      "name": "color - body_all_primitive4",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 44448,
+      "byteOffset": 3534932,
+      "name": "uv - body_all_primitive4",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 129240,
+      "byteOffset": 3579380,
+      "name": "Indices - body_all_primitive4"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 17640,
+      "byteOffset": 3708620,
+      "name": "position - cloth_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 17640,
+      "byteOffset": 3726260,
+      "name": "normal - cloth_primitive0",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 11760,
+      "byteOffset": 3743900,
+      "name": "uv - cloth_primitive0",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 31920,
+      "byteOffset": 3755660,
+      "name": "Indices - cloth_primitive0"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 14184,
+      "byteOffset": 3787580,
+      "name": "position - cloth_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 14184,
+      "byteOffset": 3801764,
+      "name": "normal - cloth_primitive1",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 9456,
+      "byteOffset": 3815948,
+      "name": "uv - cloth_primitive1",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 25872,
+      "byteOffset": 3825404,
+      "name": "Indices - cloth_primitive1"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18984,
+      "byteOffset": 3851276,
+      "name": "position - cloth_primitive2",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18984,
+      "byteOffset": 3870260,
+      "name": "normal - cloth_primitive2",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12656,
+      "byteOffset": 3889244,
+      "name": "uv - cloth_primitive2",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 28824,
+      "byteOffset": 3901900,
+      "name": "Indices - cloth_primitive2"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 178236,
+      "byteOffset": 3930724,
+      "name": "position - hair",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 178236,
+      "byteOffset": 4108960,
+      "name": "normal - hair",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 118824,
+      "byteOffset": 4287196,
+      "name": "uv - hair",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 118824,
+      "byteOffset": 4406020,
+      "name": "uv2 - hair",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 200556,
+      "byteOffset": 4524844,
+      "name": "Indices - hair"
+    }
+  ],
+  "accessors": [
+    {
+      "name": "position - sky",
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3",
+      "min": [
+        -2500,
+        -2500,
+        -2500
+      ],
+      "max": [
+        2500,
+        2500,
+        2500
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - sky",
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - sky",
+      "bufferView": 3,
+      "componentType": 5125,
+      "count": 36,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - eyelash",
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 840,
+      "type": "VEC3",
+      "min": [
+        -5.534472465515137,
+        11.127150535583496,
+        153.58273315429688
+      ],
+      "max": [
+        5.534384250640869,
+        13.236058235168457,
+        156.06800842285156
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - eyelash",
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 840,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - eyelash",
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 840,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - eyelash",
+      "bufferView": 8,
+      "componentType": 5125,
+      "count": 4032,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - eyeball",
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 1732,
+      "type": "VEC3",
+      "min": [
+        -4.197841644287109,
+        9.094632148742676,
+        153.44297790527344
+      ],
+      "max": [
+        4.190740585327148,
+        12.11361312866211,
+        156.4417724609375
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - eyeball",
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 1732,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - eyeball",
+      "bufferView": 12,
+      "componentType": 5125,
+      "count": 9984,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - body_all_primitive0",
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 8612,
+      "type": "VEC3",
+      "min": [
+        -49.42285919189453,
+        -6.780457019805908,
+        0.38154298067092896
+      ],
+      "max": [
+        49.422821044921875,
+        15.854466438293457,
+        139.66067504882812
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - body_all_primitive0",
+      "bufferView": 14,
+      "componentType": 5126,
+      "count": 8612,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - body_all_primitive0",
+      "bufferView": 15,
+      "componentType": 5126,
+      "count": 8612,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "uv - body_all_primitive0",
+      "bufferView": 16,
+      "componentType": 5126,
+      "count": 8612,
+      "type": "VEC2",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - body_all_primitive0",
+      "bufferView": 17,
+      "componentType": 5125,
+      "count": 45528,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - body_all_primitive1",
+      "bufferView": 18,
+      "componentType": 5126,
+      "count": 647,
+      "type": "VEC3",
+      "min": [
+        -11.947173118591309,
+        -3.3902299404144287,
+        134.25440979003906
+      ],
+      "max": [
+        11.889467239379883,
+        10.548638343811035,
+        153.47882080078125
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - body_all_primitive1",
+      "bufferView": 19,
+      "componentType": 5126,
+      "count": 647,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - body_all_primitive1",
+      "bufferView": 20,
+      "componentType": 5126,
+      "count": 647,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - body_all_primitive1",
+      "bufferView": 22,
+      "componentType": 5125,
+      "count": 3540,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - body_all_primitive2",
+      "bufferView": 23,
+      "componentType": 5126,
+      "count": 506,
+      "type": "VEC3",
+      "min": [
+        -14.967504501342773,
+        -4.599820613861084,
+        85.72874450683594
+      ],
+      "max": [
+        14.96750545501709,
+        12.310230255126953,
+        105.48031616210938
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - body_all_primitive2",
+      "bufferView": 24,
+      "componentType": 5126,
+      "count": 506,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - body_all_primitive2",
+      "bufferView": 25,
+      "componentType": 5126,
+      "count": 506,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - body_all_primitive2",
+      "bufferView": 27,
+      "componentType": 5125,
+      "count": 2508,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - body_all_primitive3",
+      "bufferView": 28,
+      "componentType": 5126,
+      "count": 1752,
+      "type": "VEC3",
+      "min": [
+        -2.349982500076294,
+        6.80894660949707,
+        147.09033203125
+      ],
+      "max": [
+        2.3459134101867676,
+        12.42043399810791,
+        150.5264892578125
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - body_all_primitive3",
+      "bufferView": 29,
+      "componentType": 5126,
+      "count": 1752,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - body_all_primitive3",
+      "bufferView": 30,
+      "componentType": 5126,
+      "count": 1752,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - body_all_primitive3",
+      "bufferView": 32,
+      "componentType": 5125,
+      "count": 9276,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - body_all_primitive4",
+      "bufferView": 33,
+      "componentType": 5126,
+      "count": 5556,
+      "type": "VEC3",
+      "min": [
+        -7.735123634338379,
+        -3.483834743499756,
+        145.66259765625
+      ],
+      "max": [
+        7.7386274337768555,
+        14.42070198059082,
+        165.75706481933594
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - body_all_primitive4",
+      "bufferView": 34,
+      "componentType": 5126,
+      "count": 5556,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - body_all_primitive4",
+      "bufferView": 35,
+      "componentType": 5126,
+      "count": 5556,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - body_all_primitive4",
+      "bufferView": 37,
+      "componentType": 5125,
+      "count": 32310,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - cloth_primitive0",
+      "bufferView": 38,
+      "componentType": 5126,
+      "count": 1470,
+      "type": "VEC3",
+      "min": [
+        -11.723028182983398,
+        -6.169575214385986,
+        116.14353942871094
+      ],
+      "max": [
+        11.72136116027832,
+        15.577560424804688,
+        142.14512634277344
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - cloth_primitive0",
+      "bufferView": 39,
+      "componentType": 5126,
+      "count": 1470,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - cloth_primitive0",
+      "bufferView": 41,
+      "componentType": 5125,
+      "count": 7980,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - cloth_primitive1",
+      "bufferView": 42,
+      "componentType": 5126,
+      "count": 1182,
+      "type": "VEC3",
+      "min": [
+        -17.419132232666016,
+        -7.837096691131592,
+        81.31896209716797
+      ],
+      "max": [
+        17.478660583496094,
+        13.154571533203125,
+        111.5978012084961
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - cloth_primitive1",
+      "bufferView": 43,
+      "componentType": 5126,
+      "count": 1182,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - cloth_primitive1",
+      "bufferView": 45,
+      "componentType": 5125,
+      "count": 6468,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - cloth_primitive2",
+      "bufferView": 46,
+      "componentType": 5126,
+      "count": 1582,
+      "type": "VEC3",
+      "min": [
+        -16.477678298950195,
+        -4.176636695861816,
+        -0.06965446472167969
+      ],
+      "max": [
+        16.477678298950195,
+        17.330692291259766,
+        15.040809631347656
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - cloth_primitive2",
+      "bufferView": 47,
+      "componentType": 5126,
+      "count": 1582,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - cloth_primitive2",
+      "bufferView": 49,
+      "componentType": 5125,
+      "count": 7206,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - hair",
+      "bufferView": 50,
+      "componentType": 5126,
+      "count": 14853,
+      "type": "VEC3",
+      "min": [
+        -13.627545356750488,
+        -8.422891616821289,
+        143.34695434570312
+      ],
+      "max": [
+        13.166277885437012,
+        15.945591926574707,
+        168.22808837890625
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - hair",
+      "bufferView": 51,
+      "componentType": 5126,
+      "count": 14853,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - hair",
+      "bufferView": 54,
+      "componentType": 5125,
+      "count": 50139,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - New Cylinder",
+      "bufferView": 55,
+      "componentType": 5126,
+      "count": 70,
+      "type": "VEC3",
+      "min": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "max": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - New Cylinder",
+      "bufferView": 56,
+      "componentType": 5126,
+      "count": 70,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - New Cylinder",
+      "bufferView": 58,
+      "componentType": 5125,
+      "count": 192,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - eyelash",
+      "bufferView": 59,
+      "componentType": 5126,
+      "count": 840,
+      "type": "VEC3",
+      "min": [
+        -5.534472465515137,
+        11.127150535583496,
+        153.58273315429688
+      ],
+      "max": [
+        5.534384250640869,
+        13.236058235168457,
+        156.06800842285156
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - eyelash",
+      "bufferView": 60,
+      "componentType": 5126,
+      "count": 840,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - eyelash",
+      "bufferView": 61,
+      "componentType": 5126,
+      "count": 840,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - eyelash",
+      "bufferView": 63,
+      "componentType": 5125,
+      "count": 4032,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - eyeball",
+      "bufferView": 64,
+      "componentType": 5126,
+      "count": 1732,
+      "type": "VEC3",
+      "min": [
+        -4.197841644287109,
+        9.094632148742676,
+        153.44297790527344
+      ],
+      "max": [
+        4.190740585327148,
+        12.11361312866211,
+        156.4417724609375
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - eyeball",
+      "bufferView": 65,
+      "componentType": 5126,
+      "count": 1732,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - eyeball",
+      "bufferView": 67,
+      "componentType": 5125,
+      "count": 9984,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - body_all_primitive0",
+      "bufferView": 68,
+      "componentType": 5126,
+      "count": 8612,
+      "type": "VEC3",
+      "min": [
+        -49.42285919189453,
+        -6.780457019805908,
+        0.38154298067092896
+      ],
+      "max": [
+        49.422821044921875,
+        15.854466438293457,
+        139.66067504882812
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - body_all_primitive0",
+      "bufferView": 69,
+      "componentType": 5126,
+      "count": 8612,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - body_all_primitive0",
+      "bufferView": 70,
+      "componentType": 5126,
+      "count": 8612,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - body_all_primitive0",
+      "bufferView": 72,
+      "componentType": 5125,
+      "count": 45528,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - body_all_primitive1",
+      "bufferView": 73,
+      "componentType": 5126,
+      "count": 647,
+      "type": "VEC3",
+      "min": [
+        -11.947173118591309,
+        -3.3902299404144287,
+        134.25440979003906
+      ],
+      "max": [
+        11.889467239379883,
+        10.548638343811035,
+        153.47882080078125
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - body_all_primitive1",
+      "bufferView": 74,
+      "componentType": 5126,
+      "count": 647,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - body_all_primitive1",
+      "bufferView": 75,
+      "componentType": 5126,
+      "count": 647,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - body_all_primitive1",
+      "bufferView": 77,
+      "componentType": 5125,
+      "count": 3540,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - body_all_primitive2",
+      "bufferView": 78,
+      "componentType": 5126,
+      "count": 506,
+      "type": "VEC3",
+      "min": [
+        -14.967504501342773,
+        -4.599820613861084,
+        85.72874450683594
+      ],
+      "max": [
+        14.96750545501709,
+        12.310230255126953,
+        105.48031616210938
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - body_all_primitive2",
+      "bufferView": 79,
+      "componentType": 5126,
+      "count": 506,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - body_all_primitive2",
+      "bufferView": 80,
+      "componentType": 5126,
+      "count": 506,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - body_all_primitive2",
+      "bufferView": 82,
+      "componentType": 5125,
+      "count": 2508,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - body_all_primitive3",
+      "bufferView": 83,
+      "componentType": 5126,
+      "count": 1752,
+      "type": "VEC3",
+      "min": [
+        -2.349982500076294,
+        6.80894660949707,
+        147.09033203125
+      ],
+      "max": [
+        2.3459134101867676,
+        12.42043399810791,
+        150.5264892578125
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - body_all_primitive3",
+      "bufferView": 84,
+      "componentType": 5126,
+      "count": 1752,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - body_all_primitive3",
+      "bufferView": 85,
+      "componentType": 5126,
+      "count": 1752,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - body_all_primitive3",
+      "bufferView": 87,
+      "componentType": 5125,
+      "count": 9276,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - body_all_primitive4",
+      "bufferView": 88,
+      "componentType": 5126,
+      "count": 5556,
+      "type": "VEC3",
+      "min": [
+        -7.735123634338379,
+        -3.483834743499756,
+        145.66259765625
+      ],
+      "max": [
+        7.7386274337768555,
+        14.42070198059082,
+        165.75706481933594
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - body_all_primitive4",
+      "bufferView": 89,
+      "componentType": 5126,
+      "count": 5556,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "color - body_all_primitive4",
+      "bufferView": 90,
+      "componentType": 5126,
+      "count": 5556,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - body_all_primitive4",
+      "bufferView": 92,
+      "componentType": 5125,
+      "count": 32310,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - cloth_primitive0",
+      "bufferView": 93,
+      "componentType": 5126,
+      "count": 1470,
+      "type": "VEC3",
+      "min": [
+        -11.723028182983398,
+        -6.169575214385986,
+        116.14353942871094
+      ],
+      "max": [
+        11.72136116027832,
+        15.577560424804688,
+        142.14512634277344
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - cloth_primitive0",
+      "bufferView": 94,
+      "componentType": 5126,
+      "count": 1470,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - cloth_primitive0",
+      "bufferView": 96,
+      "componentType": 5125,
+      "count": 7980,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - cloth_primitive1",
+      "bufferView": 97,
+      "componentType": 5126,
+      "count": 1182,
+      "type": "VEC3",
+      "min": [
+        -17.419132232666016,
+        -7.837096691131592,
+        81.31896209716797
+      ],
+      "max": [
+        17.478660583496094,
+        13.154571533203125,
+        111.5978012084961
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - cloth_primitive1",
+      "bufferView": 98,
+      "componentType": 5126,
+      "count": 1182,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - cloth_primitive1",
+      "bufferView": 100,
+      "componentType": 5125,
+      "count": 6468,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - cloth_primitive2",
+      "bufferView": 101,
+      "componentType": 5126,
+      "count": 1582,
+      "type": "VEC3",
+      "min": [
+        -16.477678298950195,
+        -4.176636695861816,
+        -0.06965446472167969
+      ],
+      "max": [
+        16.477678298950195,
+        17.330692291259766,
+        15.040809631347656
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - cloth_primitive2",
+      "bufferView": 102,
+      "componentType": 5126,
+      "count": 1582,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - cloth_primitive2",
+      "bufferView": 104,
+      "componentType": 5125,
+      "count": 7206,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - hair",
+      "bufferView": 105,
+      "componentType": 5126,
+      "count": 14853,
+      "type": "VEC3",
+      "min": [
+        -13.627545356750488,
+        -8.422891616821289,
+        143.34695434570312
+      ],
+      "max": [
+        13.166277885437012,
+        15.945591926574707,
+        168.22808837890625
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - hair",
+      "bufferView": 106,
+      "componentType": 5126,
+      "count": 14853,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - hair",
+      "bufferView": 109,
+      "componentType": 5125,
+      "count": 50139,
+      "type": "SCALAR",
+      "byteOffset": 0
+    }
+  ],
+  "materials": [
+    {
+      "name": "default material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.3288090062081349
+      }
+    },
+    {
+      "name": "BS:lambert7",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.5527864098548889
+      }
+    },
+    {
+      "name": "BS:female_head_toLL:lambert9",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.5527864098548889
+      }
+    },
+    {
+      "name": "pasted__teetn_defaultMat3",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.5527864098548889
+      }
+    },
+    {
+      "name": "pasted__lambert5",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.5527864098548889
+      }
+    },
+    {
+      "name": "pasted__clothes_f_shoes_16",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.5527864098548889
+      }
+    },
+    {
+      "name": "pasted__lambert2",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.5527864098548889
+      }
+    },
+    {
+      "name": "PBRTest",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.9999999999999994,
+        "roughnessFactor": 0
+      }
+    },
+    {
+      "name": "body_new:body48",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.5527864098548889
+      }
+    },
+    {
+      "name": "PBR",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0
+      }
+    }
+  ],
+  "textures": [
+    {
+      "source": 0,
+      "sampler": 0
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "images": [
+    {
+      "name": "DemoTest-fb217cb9-ef13-4e6e-96cd-33a8778f101e-1",
+      "uri": "DemoTest-fb217cb9-ef13-4e6e-96cd-33a8778f101e-1.png"
+    }
+  ]
+}
